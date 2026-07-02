@@ -1,0 +1,47 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+.letras {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  color: #1a1a1a;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+.boton {
+  margin: 2%;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  color: #c7c7c7;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #313030;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  
+  width: 6rem;
+}
+
+
+
+
